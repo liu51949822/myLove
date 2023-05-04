@@ -1,4 +1,6 @@
 function  prints(){
+	setTimeout("prints()",1000);
+
 	var iDays = "2023-02-08"
 	var date1= '2023/02/08 11:30:00';  //开始时间
        var date2 = new Date();    //结束时间
