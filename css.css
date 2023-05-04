@@ -43,6 +43,6 @@ canvas {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 600px;
     font-weight: bold; /* 将文本设置为粗体 */
 }
