@@ -32,9 +32,6 @@ function  prints(){
 		
 	     document.getElementById("d2").innerHTML=back;
 }
-setTimeout(function() {
-		document.getElementById("d2").style.display = "block"; //在31秒后显示元素
-		prints(); //在31秒后开始更新元素内容
-	}, 31000);
+
 	   
 };
