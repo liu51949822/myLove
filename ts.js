@@ -30,7 +30,7 @@ function  prints(){
 		
 	     document.getElementById("d2").innerHTML=back;
 }
-		setTimeout("prints()",31000 );
+		setTimeout(prints,31000 );
 
 	   
 };
