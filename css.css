@@ -45,4 +45,6 @@ canvas {
     align-items: center;
     height: 600px;
     font-weight: bold; /* 将文本设置为粗体 */
+    font-size: 2.125rem;
+
 }
